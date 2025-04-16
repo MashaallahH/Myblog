@@ -49,3 +49,31 @@ footer {
   margin-top: 50px;
   font-size: 0.9em;
 }
+
+.category {
+  font-size: 0.9em;
+  margin-bottom: 5px;
+  color: #666;
+}
+
+.tag {
+  padding: 2px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.tag.html {
+  background-color: #e34c26;
+  color: white;
+}
+
+.tag.css {
+  background-color: #2965f1;
+  color: white;
+}
+
+.tag.js {
+  background-color: #f0db4f;
+  color: #000;
+}
